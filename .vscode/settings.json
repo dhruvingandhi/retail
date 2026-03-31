@@ -1,0 +1,7 @@
+{
+    "looker.instanceURL": "https://agent-eval-master.auxilia.lookersandbox.com/",
+    "looker.clientId": "vwXcXcNb6WJt4JcTPFSF",
+    "looker.clientSecret": "ZmwPqgZQ4w635j63D55ZxJ4g",
+    "looker.projectId": "retail",
+    "looker.mcpServerUrl": "http://localhost:5050",
+}
