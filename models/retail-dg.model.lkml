@@ -8,6 +8,6 @@ datagroup: google_retail_default_datagroup {
   # sql_trigger: SELECT MAX(id) FROM etl_log;;
   max_cache_age: "1 hour"
 }
-
+#tests
 persist_with: google_retail_default_datagroup
 #testin
