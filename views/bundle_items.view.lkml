@@ -22,3 +22,4 @@ view: bundle_items {
     drill_fields: [products.product_id, products.product_name]
   }
 }
+#terscascas
