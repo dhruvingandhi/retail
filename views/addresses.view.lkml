@@ -72,3 +72,4 @@ view: addresses {
     drill_fields: [address_id, customers.first_name, customers.last_name, customers.customer_id]
   }
 }
+#testidnvddvdvd
