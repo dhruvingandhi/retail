@@ -1,4 +1,5 @@
 # Workspace LookML file
+# Explore file configuration
 include: "/views/customers.view.lkml"
 include: "/views/customer_loyalty_program.view.lkml"
 include: "/views/customer_journey_analytics.view.lkml"

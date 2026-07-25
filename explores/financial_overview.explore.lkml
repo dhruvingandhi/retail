@@ -1,4 +1,5 @@
 # Workspace LookML file
+# Explore file configuration
 include: "/views/customers.view.lkml"
 include: "/views/invoices.view.lkml"
 include: "/views/orders.view.lkml"

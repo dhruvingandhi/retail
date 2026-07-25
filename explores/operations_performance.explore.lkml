@@ -1,4 +1,5 @@
 # Workspace LookML file
+# Explore file configuration
 include: "/views/inventory_levels.view.lkml"
 include: "/views/inventory_movements.view.lkml"
 include: "/views/products.view.lkml"
