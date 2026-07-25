@@ -1,3 +1,4 @@
+# Workspace LookML file
 # The name of this view in Looker is "Employees"
 view: employees {
   # The sql_table_name parameter indicates the underlying database table

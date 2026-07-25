@@ -1,3 +1,4 @@
+# Workspace LookML file
 view: marketing_campaigns {
   sql_table_name: `nl2lq-eval-looker-bq-data.retail_whole.MarketingCampaigns` ;;
 

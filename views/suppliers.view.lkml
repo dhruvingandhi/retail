@@ -1,3 +1,4 @@
+# Workspace LookML file
 view: suppliers {
   sql_table_name: `nl2lq-eval-looker-bq-data.retail_whole.Suppliers` ;;
   drill_fields: [supplier_id]

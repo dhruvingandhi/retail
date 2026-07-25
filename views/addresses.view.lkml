@@ -1,3 +1,4 @@
+# Workspace LookML file
 view: addresses {
   sql_table_name: `nl2lq-eval-looker-bq-data.retail_whole.Addresses` ;;
   drill_fields: [address_id]

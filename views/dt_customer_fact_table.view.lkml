@@ -1,3 +1,4 @@
+# Workspace LookML file
 view: dt_customer_fact_table {
   derived_table: {
     explore_source: orders {

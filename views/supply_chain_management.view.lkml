@@ -1,3 +1,4 @@
+# Workspace LookML file
 view: supply_chain_management {
   sql_table_name: `nl2lq-eval-looker-bq-data.retail_whole.SupplyChainManagement` ;;
 

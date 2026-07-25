@@ -1,3 +1,4 @@
+# Workspace LookML file
 view: promotional_events {
   sql_table_name: `nl2lq-eval-looker-bq-data.retail_whole.PromotionalEvents` ;;
 

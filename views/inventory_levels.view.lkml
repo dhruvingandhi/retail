@@ -1,3 +1,4 @@
+# Workspace LookML file
 view: inventory_levels {
   sql_table_name: `nl2lq-eval-looker-bq-data.retail_whole.InventoryLevels` ;;
 

@@ -1,3 +1,4 @@
+# Workspace LookML file
 view: payment_details {
   sql_table_name: `nl2lq-eval-looker-bq-data.retail_whole.Payment_Details` ;;
 

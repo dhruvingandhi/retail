@@ -1,3 +1,4 @@
+# Workspace LookML file
 # The name of this view in Looker is "Categories"
 view: categories {
   # The sql_table_name parameter indicates the underlying database table

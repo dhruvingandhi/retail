@@ -1,3 +1,4 @@
+# Workspace LookML file
 # Define the database connection to be used for this model.
 connection: "default_bigquery_connection"
 include: "/explores/*.explore.lkml"

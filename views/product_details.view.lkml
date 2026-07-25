@@ -1,3 +1,4 @@
+# Workspace LookML file
 view: product_details {
   sql_table_name: `nl2lq-eval-looker-bq-data.retail_whole.ProductDetails` ;;
 

@@ -1,3 +1,4 @@
+# Workspace LookML file
 view: campaigns {
   sql_table_name: `nl2lq-eval-looker-bq-data.retail_whole.Campaigns` ;;
   drill_fields: [campaign_id]

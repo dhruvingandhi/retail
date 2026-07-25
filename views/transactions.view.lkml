@@ -1,3 +1,4 @@
+# Workspace LookML file
 view: transactions {
   sql_table_name: `nl2lq-eval-looker-bq-data.retail_whole.Transactions` ;;
   drill_fields: [refund_transaction_id]

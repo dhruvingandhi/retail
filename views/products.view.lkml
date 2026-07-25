@@ -1,3 +1,4 @@
+# Workspace LookML file
 view: products {
   sql_table_name: `nl2lq-eval-looker-bq-data.retail_whole.Products` ;;
   drill_fields: [product_id]

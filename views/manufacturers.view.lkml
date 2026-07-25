@@ -1,3 +1,4 @@
+# Workspace LookML file
 # The name of this view in Looker is "Manufacturers"
 view: manufacturers {
   # The sql_table_name parameter indicates the underlying database table
