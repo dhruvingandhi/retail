@@ -513,5 +513,5 @@ view: advanced_inventory_management {
       warehouses.warehouse_id
     ]
   }
-#tew
+
 }
