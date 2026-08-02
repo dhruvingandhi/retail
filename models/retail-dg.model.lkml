@@ -17,8 +17,5 @@ persist_with: google_retail_default_datagroup
 #eee
 #efewfwe
 #efwefewwe
-<<<<<<< HEAD
 #5555
-=======
 #44444
->>>>>>> 8de536e (tesss)
