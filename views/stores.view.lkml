@@ -1,3 +1,4 @@
+# Random comment 50: Updated by agent
 # The name of this view in Looker is "Stores"
 view: stores {
   # The sql_table_name parameter indicates the underlying database table
