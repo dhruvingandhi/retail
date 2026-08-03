@@ -273,4 +273,4 @@ view: marketing_campaigns {
     type: count
     drill_fields: [campaign_name, campaigns.campaign_id, campaigns.campaign_name]
   }
-}
+}# Comment batch edit again 30: Updated at 2026-08-03T20:52:41Z

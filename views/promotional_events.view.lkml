@@ -159,4 +159,4 @@ view: promotional_events {
     type: count
     drill_fields: [event_name]
   }
-}
+}# Comment batch edit again 39: Updated at 2026-08-03T20:52:41Z
