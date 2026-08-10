@@ -15,6 +15,7 @@ view: customer_loyalty_program {
     type: number
     sql: ${TABLE}.loyalty_id ;;
   }
+  #eeee
   dimension: achievements_unlocked {
     type: number
     description: "Number of achievements unlocked"
