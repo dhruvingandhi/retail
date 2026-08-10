@@ -43,6 +43,7 @@ view: customer_loyalty_program {
     description: "Status of automatic membership renewal"
     sql: ${TABLE}.auto_renewal_status ;;
   }
+  #e
   dimension: average_points_per_transaction {
     type: number
     description: "Average points earned per transaction"
