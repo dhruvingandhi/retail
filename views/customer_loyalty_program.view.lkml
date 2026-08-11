@@ -33,6 +33,7 @@ view: customer_loyalty_program {
     datatype: date
     sql: ${TABLE}.anniversary_date ;;
   }
+  #ee
   dimension: app_installed {
     type: yesno
     description: "Indicates if the loyalty app is installed"
