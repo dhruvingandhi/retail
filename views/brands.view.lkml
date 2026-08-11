@@ -72,7 +72,7 @@ view: brands {
     description: "Timestamp of last update"
     sql: ${TABLE}.updated_at ;;
   }
-
+#eeeeess
   dimension: website {
     type: string
     description: "Official website of the brand"
