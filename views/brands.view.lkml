@@ -65,7 +65,7 @@ view: brands {
     description: "URL to the brand's logo image"
     sql: ${TABLE}.logo_url ;;
   }
-
+#edvd
   dimension: updated_at {
     type: number
     description: "Timestamp of last update"
