@@ -68,6 +68,7 @@ view: brands {
 #edvd
 #ddwqqwwd
 #escs
+#dd
   dimension: updated_at {
     type: number
     description: "Timestamp of last update"
