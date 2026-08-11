@@ -66,6 +66,7 @@ view: brands {
     sql: ${TABLE}.logo_url ;;
   }
 #edvd
+#ddwqqwwd
   dimension: updated_at {
     type: number
     description: "Timestamp of last update"
