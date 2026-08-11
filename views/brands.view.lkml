@@ -59,7 +59,7 @@ view: brands {
     description: "Indicates if the brand is currently active"
     sql: ${TABLE}.is_active ;;
   }
-
+#ewdcd
   dimension: logo_url {
     type: string
     description: "URL to the brand's logo image"
